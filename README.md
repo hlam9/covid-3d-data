@@ -1,9 +1,9 @@
 # CSC621-821-Team-River
 
-Team Members:
-Ana	
-Douglas	
-Eva	  - Team Lead
+Team Members: \n
+Ana	\n
+Douglas	\n
+Eva	  - Team Lead \n
 Henry	
 Phillip
 
