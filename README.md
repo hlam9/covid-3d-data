@@ -23,7 +23,7 @@ How to share code: We are sharing through github
 
 
 
-We are dealing with 3d images, focusing mainly on these two data sets below. We pull the data from the Cancer Imaging Archive, specifically the Medical Imaging Data Resource Center (MIDRC).
+We are dealing with 3d images, focusing mainly on these two data sets below. We pull the data from the Cancer Imaging Archive, specifically the Medical Imaging Data Resource Center (MIDRC). We chose to focus on the lungs, and identifying and comparing different lungs in order to determine the likelyhood of being infected by COVID-19.
 
 MIDRC-RICORD-1A-419639-000082 # This data set contains the infected lung
 
