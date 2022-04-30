@@ -36,5 +36,5 @@ We are able to align the images and compare the results
 
 For quantification:
 
-# placeholder
+placeholder
 
