@@ -21,7 +21,9 @@ ITK (C++) vs SimpleITK: we are using SimpleITK with python
 
 How to share code: We are sharing through github
 
-We are dealing with 3d images, focusing mainly on these two data sets:
+
+
+We are dealing with 3d images, focusing mainly on these two data sets below. We pull the data from the Cancer Imaging Archive, specifically the Medical Imaging Data Resource Center (MIDRC).
 
 MIDRC-RICORD-1A-419639-000082 # This data set contains the infected lung
 
